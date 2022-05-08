@@ -7,9 +7,9 @@ This data repository will contain analysis and reports pertaining to PMV's works
 Survey feedback results from 2021. Data is available in csv files
 
 ## Contributors 
-Arlin Cherian @arlincherian. 
-Nicholas Cheung. 
-Donna Sedlar. 
+- Arlin Cherian @arlincherian
+- Nicholas Cheung
+- Donna Sedlar
 
 ## Contributing 
 Check out the contributing guidelines if you are interested in contributing to this project. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
