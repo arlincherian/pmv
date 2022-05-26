@@ -15,13 +15,13 @@ This report contains visualizations of survey questions from Pre and Post WS Sur
 
 Visualizations of all multiple choice or selection-based questions in Pre-workshop survey:   
 
-#### Q1: Do you consider yourself to be one or more of the following roles (please select all that apply
+#### Q1: Do you consider yourself to be one or more of the following roles (please select all that apply)
 
 ```{r pq1}
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-17.svg")
+knitr::include_graphics("../results/images/visualization-17.svg")
 ```
 
 
@@ -31,7 +31,7 @@ knitr::include_graphics("results/images/visualization-17.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-18.svg")
+knitr::include_graphics("../results/images/visualization-18.svg")
 ```
 
 
@@ -46,7 +46,7 @@ knitr::include_graphics("results/images/visualization-18.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-19.svg")
+knitr::include_graphics("../results/images/visualization-19.svg")
 ```
 
 ## Post-Survey Results
@@ -61,7 +61,7 @@ Visualizations of all multiple choice or selection-based questions in Post-works
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization.svg")
+knitr::include_graphics("../results/images/visualization.svg")
 ```
 
 
@@ -71,7 +71,7 @@ knitr::include_graphics("results/images/visualization.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-2.svg")
+knitr::include_graphics("../results/images/visualization-2.svg")
 ```
 
 
@@ -81,7 +81,7 @@ knitr::include_graphics("results/images/visualization-2.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-3.svg")
+knitr::include_graphics("../results/images/visualization-3.svg")
 ```
 
 
@@ -91,7 +91,7 @@ knitr::include_graphics("results/images/visualization-3.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-4.svg")
+knitr::include_graphics("../results/images/visualization-4.svg")
 ```
 
 
@@ -101,7 +101,7 @@ knitr::include_graphics("results/images/visualization-4.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-5.svg")
+knitr::include_graphics("../results/images/visualization-5.svg")
 ```
 
 
@@ -111,7 +111,7 @@ knitr::include_graphics("results/images/visualization-5.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-6.svg")
+knitr::include_graphics("../results/images/visualization-6.svg")
 ```
 
 
@@ -121,7 +121,7 @@ knitr::include_graphics("results/images/visualization-6.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-7.svg")
+knitr::include_graphics("../results/images/visualization-7.svg")
 ```
 
 
@@ -131,7 +131,7 @@ knitr::include_graphics("results/images/visualization-7.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-8.svg")
+knitr::include_graphics("../results/images/visualization-8.svg")
 ```
 
 ### Facilitator-specific questions:  
@@ -142,7 +142,7 @@ knitr::include_graphics("results/images/visualization-8.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-9.svg")
+knitr::include_graphics("../results/images/visualization-9.svg")
 ```
 
 
@@ -152,7 +152,7 @@ knitr::include_graphics("results/images/visualization-9.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-10.svg")
+knitr::include_graphics("../results/images/visualization-10.svg")
 ```
 
 
@@ -162,7 +162,7 @@ knitr::include_graphics("results/images/visualization-10.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-11.svg")
+knitr::include_graphics("../results/images/visualization-11.svg")
 ```
 
 
@@ -172,7 +172,7 @@ knitr::include_graphics("results/images/visualization-11.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-12.svg")
+knitr::include_graphics("../results/images/visualization-12.svg")
 ```
 
 
@@ -182,7 +182,7 @@ knitr::include_graphics("results/images/visualization-12.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-13.svg")
+knitr::include_graphics("../results/images/visualization-13.svg")
 ```
 
 
@@ -192,7 +192,7 @@ knitr::include_graphics("results/images/visualization-13.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-14.svg")
+knitr::include_graphics("../results/images/visualization-14.svg")
 ```
 
 ### General questions:  
@@ -203,7 +203,7 @@ knitr::include_graphics("results/images/visualization-14.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-15.svg")
+knitr::include_graphics("../results/images/visualization-15.svg")
 ```
 
 
@@ -213,6 +213,6 @@ knitr::include_graphics("results/images/visualization-15.svg")
 #| echo=FALSE, 
 #| out.width = '75%'
 
-knitr::include_graphics("results/images/visualization-16.svg")
+knitr::include_graphics("../results/images/visualization-16.svg")
 ```
 
