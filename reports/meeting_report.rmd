@@ -55,7 +55,7 @@ Visualizations of all multiple choice or selection-based questions in Post-works
 
 ### Content-based questions:  
 
-#### Q11: The Workshop content sustained my interest
+#### Q1: The Workshop content sustained my interest
 
 ```{r q1}
 #| echo=FALSE, 
