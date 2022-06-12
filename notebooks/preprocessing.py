@@ -8,8 +8,8 @@ import re
 
 def preprocess_spacy(
     text,
-    min_token_len=3,
-    irrelevant_pos=["ADV", "PRON", "CCONJ", "PUNCT", "PART", "DET", "ADP", "NUM", "SYM"],
+    min_token_len=2,
+    irrelevant_pos=["ADV", "PRON", "CCONJ", "PUNCT", "NUM", "SYM"],
 ):
     """
     Given text, min_token_len, and irrelevant_pos carry out preprocessing of the text
@@ -51,7 +51,7 @@ def preprocess(text):
     text = re.sub(r"""[\n\r]+""", "", text)
     
     # Remove other strange characters
-    text = re.sub(r"""[\*\~]+""", "", text)
+    text = re.sub(r"""[\*\~\;]+""", "", text)
 
     # Replace slashes with spaces
     text = re.sub(r"""[\/]+""", " ", text)

@@ -197,9 +197,9 @@ knitr::include_graphics("../results/images/visualization-14.svg")
 
 ### General questions:  
 
-#### Q19: Do you plan to subscribe to our mailing list to receive news about upcoming workshops and/or project volunteer opportunities?
+#### Q21: Do you plan to subscribe to our mailing list to receive news about upcoming workshops and/or project volunteer opportunities?
 
-```{r q19}
+```{r q21}
 #| echo=FALSE, 
 #| out.width = '75%'
 
@@ -207,9 +207,9 @@ knitr::include_graphics("../results/images/visualization-15.svg")
 ```
 
 
-#### Q20: When you register for professional development, do you prefer weekday or weekend sessions or the option for both?
+#### Q23: When you register for professional development, do you prefer weekday or weekend sessions or the option for both?
 
-```{r q20}
+```{r q23}
 #| echo=FALSE, 
 #| out.width = '75%'
 
