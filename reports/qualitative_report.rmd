@@ -30,8 +30,15 @@ table1 <- read_csv("../results/tables/pre_survey_q4.csv") |>
   suppressMessages() 
   
 kable(table1, 
-      caption = "Key themes from participant personal projects", 
+      caption = "Key terms from participant personal projects", 
       align = "ll") |> kable_styling(font_size = 13)
+```
+
+```{r}
+#| echo=FALSE, 
+#| out.width = '65%'
+
+knitr::include_graphics("../results/images/q4_wc.png")
 ```
 
 
@@ -42,11 +49,11 @@ table2 <- read_csv("../results/tables/pre_survey_q5.csv") |>
   suppressMessages() 
   
 kable(table2, 
-      caption = "Key themes from one participant project", 
+      caption = "Key terms from one participant project", 
       align = "ll") |> kable_styling(font_size = 13)
 ```
 
-<br>/  
+<br>
 
 ```{r pq2.1}
 #| echo=FALSE, 
@@ -54,7 +61,6 @@ kable(table2,
 
 knitr::include_graphics("../results/images/q5_wc.png")
 ```
-
 
 
 #### Q7: Please describe any areas of TEAM strength you have identified.   
